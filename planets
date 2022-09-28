@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Information about 3 biggest </h1>
+
+<table border="5" width="100%">
+
+<tr>
+<th>Planet</th>
+<th>Fact</th>
+<th>No. of moons</th>
+</tr>
+
+<tr>
+<td>Jupiter </td>
+<td>It has more than double the mass of all the other planets combained</td>
+<td>At least 79 moons </td>
+</tr>
+ 
+<tr>
+<td>Saturn </td>
+<td>It has more moons than any other planets in the solar system </td>
+<td>At least 82 </td>
+</tr>
+
+<tr>
+<td>Uranus </td>
+<td>It has only been visited by a single spacecraft, Voyager </td>
+<td>At least 27 </td>
+</tr>
+</table>
+</body>
+</html>
